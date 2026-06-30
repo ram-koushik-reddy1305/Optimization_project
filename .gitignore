@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local data & logs
+data/
+output/
+runs/
+.pytest_cache/
